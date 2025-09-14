@@ -1,3 +1,4 @@
-body {
-    border: 10px solid red !important;
+* {
+    color: red;
+    background-color: green;
 }
