@@ -1,4 +1,9 @@
-* {
-    color: red;
-    background-color: green;
+:root {
+    --border: 4px solid white;
+    --border-radius: 8px;
+}
+
+.cardImageContainer {
+    border: var(--border);
+    border-radius: var(--border-radius);
 }
